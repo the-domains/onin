@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Test Site]]></title>
+        <description><![CDATA[Test Site]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 04 Feb 2016 04:18:51 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<article><h1>Home</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin convallis convallis euismod. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam erat massa, commodo vitae arcu sed, iaculis consectetur libero. Aenean ullamcorper, orci quis dignissim gravida, ex lacus pharetra eros, sed lobortis tortor justo id nunc. Ut suscipit, risus a pellentesque faucibus, orci dui consequat risus, ut ultricies nulla dui at enim. Aliquam consequat nec purus at varius. Aenean egestas vulputate massa, a suscipit lorem viverra nec. Nulla eu vestibulum odio, quis iaculis elit. Etiam imperdiet, elit a fringilla tincidunt, lectus ipsum volutpat nunc, nec ultricies arcu turpis a lacus. Suspendisse libero arcu, aliquam a nisi vel, laoreet porttitor purus. Donec dignissim augue ipsum, nec tempor leo rhoncus eget. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam feugiat eget eros id semper.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0dd60819b5e97b7c78100e37441a29083e478c13.jpg"></article>]]></description>
+            <link>undefinedhome/index.html</link>
+            <guid isPermaLink="false">8d96bc08-a2ab-47af-991e-55997372d6e0</guid>
+            <pubDate>Thu, 04 Feb 2016 04:18:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
