@@ -1,6 +1,6 @@
 name: Onin
 favicon: null
-layout_spectrum: 0.92762
+layout_spectrum: 0.74596
 typography_spectrum: 0.14809
 title: Test Site
 cta:
@@ -22,8 +22,8 @@ color:
     - '#435f6d'
     - '#ab8b80'
     - '#ffffff'
-  brandStrength: 0.4520113703329116
-  lightness: 0.4375
-  saturation: 0.050204323371872306
-  rhythmicContrast: 0.5559002330992371
+  brandStrength: 0.5
+  lightness: 0.125
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []
