@@ -1,20 +1,4 @@
-name: Onin
-favicon: null
-layout_spectrum: 0.254
-typography_spectrum: 0.14809
-title: Test Site
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#002e3e'
@@ -22,8 +6,13 @@ color:
     - '#435f6d'
     - '#ab8b80'
     - '#ffffff'
-  brandStrength: 0.5
-  lightness: 0.125
+  brandStrength: 0.493243
+  lightness: 0
+  rhythmicContrast: 0.220439
   saturation: 0.6875
-  rhythmicContrast: 0
+cta: {}
+layout_spectrum: 0.772804
+name: Onin
+opengraph: {}
 purpose: []
+typography_spectrum: 0.14809
