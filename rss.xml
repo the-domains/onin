@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Test Site]]></title>
         <description><![CDATA[Test Site]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/onin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 04:18:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Feb 2016 04:19:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/onin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Blog]]></title>
+            <description><![CDATA[<article><h1>Blog</h1><p>Phasellus nibh nisl, finibus sit amet molestie sed, consectetur in neque. Nullam dictum, enim et rutrum ullamcorper, metus leo vehicula ligula, et venenatis nibh tellus eu ante. Maecenas feugiat vitae dui in pretium. Pellentesque convallis nisi a gravida venenatis. Proin felis neque, gravida eget venenatis eu, sollicitudin quis risus. Vivamus quis metus tellus. Nam blandit tristique lacus vitae commodo. Mauris nunc augue, ornare a congue nec, efficitur ut nulla. Fusce lobortis justo eu eros mollis, ac ultrices nibh molestie. Donec tempor ultrices eleifend. Pellentesque cursus, lectus quis imperdiet finibus, arcu metus bibendum magna, sit amet mattis odio magna quis dui. Fusce aliquet laoreet nibh non finibus. Vestibulum suscipit venenatis nunc, in ullamcorper sapien feugiat sit amet. Curabitur vulputate molestie magna nec molestie. Aliquam erat volutpat. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4c928c6af144153a5b18b230e71faf4291d8b7f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/onin/blog/index.html</link>
+            <guid isPermaLink="false">9b9471a9-d3f6-4e12-8c28-1e307f0178f5</guid>
+            <pubDate>Thu, 04 Feb 2016 04:19:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Home]]></title>
             <description><![CDATA[<article><h1>Home</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin convallis convallis euismod. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam erat massa, commodo vitae arcu sed, iaculis consectetur libero. Aenean ullamcorper, orci quis dignissim gravida, ex lacus pharetra eros, sed lobortis tortor justo id nunc. Ut suscipit, risus a pellentesque faucibus, orci dui consequat risus, ut ultricies nulla dui at enim. Aliquam consequat nec purus at varius. Aenean egestas vulputate massa, a suscipit lorem viverra nec. Nulla eu vestibulum odio, quis iaculis elit. Etiam imperdiet, elit a fringilla tincidunt, lectus ipsum volutpat nunc, nec ultricies arcu turpis a lacus. Suspendisse libero arcu, aliquam a nisi vel, laoreet porttitor purus. Donec dignissim augue ipsum, nec tempor leo rhoncus eget. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam feugiat eget eros id semper.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0dd60819b5e97b7c78100e37441a29083e478c13.jpg"></article>]]></description>
-            <link>undefinedhome/index.html</link>
+            <link>https://thegrid.ai/onin/home/index.html</link>
             <guid isPermaLink="false">8d96bc08-a2ab-47af-991e-55997372d6e0</guid>
             <pubDate>Thu, 04 Feb 2016 04:18:34 GMT</pubDate>
         </item>
