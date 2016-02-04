@@ -4,8 +4,15 @@
         <description><![CDATA[Test Site]]></description>
         <link>https://thegrid.ai/onin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 04:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Feb 2016 04:20:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/onin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contact]]></title>
+            <description><![CDATA[<article><h1>Contact</h1><p>Maecenas eu quam sed tellus interdum ultrices id ac lectus. Vestibulum congue in libero eget vehicula. Sed cursus justo neque, a maximus libero mollis non. Proin viverra congue est a congue. Nam imperdiet, augue et luctus ultricies, ex augue pharetra lacus, eget ultrices nisi mi id nunc. Praesent tempus nulla id ipsum viverra tincidunt. Integer auctor dolor neque, dignissim blandit dolor condimentum ac. Duis ut eros vitae mi viverra euismod.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/10d3447948c3816cdd26eb516b932ad9c8192bdd.jpg"></article>]]></description>
+            <link>https://thegrid.ai/onin/contact/index.html</link>
+            <guid isPermaLink="false">dd97cd7f-f938-4524-ac7a-4a9e6027c816</guid>
+            <pubDate>Thu, 04 Feb 2016 04:19:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Blog]]></title>
             <description><![CDATA[<article><h1>Blog</h1><p>Phasellus nibh nisl, finibus sit amet molestie sed, consectetur in neque. Nullam dictum, enim et rutrum ullamcorper, metus leo vehicula ligula, et venenatis nibh tellus eu ante. Maecenas feugiat vitae dui in pretium. Pellentesque convallis nisi a gravida venenatis. Proin felis neque, gravida eget venenatis eu, sollicitudin quis risus. Vivamus quis metus tellus. Nam blandit tristique lacus vitae commodo. Mauris nunc augue, ornare a congue nec, efficitur ut nulla. Fusce lobortis justo eu eros mollis, ac ultrices nibh molestie. Donec tempor ultrices eleifend. Pellentesque cursus, lectus quis imperdiet finibus, arcu metus bibendum magna, sit amet mattis odio magna quis dui. Fusce aliquet laoreet nibh non finibus. Vestibulum suscipit venenatis nunc, in ullamcorper sapien feugiat sit amet. Curabitur vulputate molestie magna nec molestie. Aliquam erat volutpat. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4c928c6af144153a5b18b230e71faf4291d8b7f.jpg"></article>]]></description>
