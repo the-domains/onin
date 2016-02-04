@@ -2,6 +2,7 @@ name: Onin
 favicon: null
 layout_spectrum: 0.007151695434004068
 typography_spectrum: 0.7513059617485851
+title: Test Site
 cta:
   domain: null
   bucket: null
