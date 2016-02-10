@@ -1,18 +1,18 @@
 analytics: {}
 color:
   brandColors:
-    - '#002e3e'
-    - '#bfb7a2'
-    - '#435f6d'
-    - '#ab8b80'
-    - '#ffffff'
+    - '#002E3E'
+    - '#BFB7A2'
+    - '#435F6D'
+    - '#AB8B80'
+    - '#FFFFFF'
   brandStrength: 0.493243
   lightness: 0
   rhythmicContrast: 0.220439
   saturation: 0.6875
 cta: {}
-layout_spectrum: 0.772804
+layout_spectrum: 1
 name: Onin
 opengraph: {}
 purpose: []
-typography_spectrum: 0.14809
+typography_spectrum: 0.313345
