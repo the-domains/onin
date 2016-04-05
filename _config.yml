@@ -1,7 +1,7 @@
 name: Onin
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.75509
+layout_spectrum: 1
+typography_spectrum: 0.51433
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#435F6D'
     - '#AB8B80'
     - '#FFFFFF'
-  brandStrength: 0.493243
-  lightness: 0
-  saturation: 0.6875
-  rhythmicContrast: 0.220439
+  brandStrength: 0.4375
+  lightness: 0.1875
+  saturation: 0.5625
+  rhythmicContrast: 0.5
 purpose: []
